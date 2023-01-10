@@ -9,8 +9,8 @@ export default function Nav() {
       <ul>
         <li>
           <Link to="/" className={classes.brand}>
-            <img src={logo} alt="Learn with Sumit Logo" />
-            <h3>IIT-Class-marker</h3>
+            <img src={logo} alt="nstu iit logo" />
+            <h3>IIT-Class-Marker</h3>
           </Link>
         </li>
       </ul>

@@ -5,7 +5,7 @@ export default function PublicRoute({ component: Component, ...rest }) {
   const { currentUser } = useAuth();
 
   return !currentUser ? (
-    <Route {...rest}>{props => <Component {...props} />}</Route>
+    <Route {...rest}>{(props) => <Component {...props} />}</Route>
   ) : (
     <Redirect to="/" />
   );

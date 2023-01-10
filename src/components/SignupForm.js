@@ -17,7 +17,7 @@ export default function SignupForm() {
   const [loading, setLoading] = useState();
 
   const { signup } = useAuth();
-  const Redirect = useHistory();
+  const history = useHistory();
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -30,8 +30,7 @@ export default function SignupForm() {
       setError("");
       setLoading(true);
       await signup(email, password, username);
-
-      Redirect("/");
+      history.push("/");
     } catch (err) {
       console.log(err);
       setLoading(false);
@@ -47,7 +46,7 @@ export default function SignupForm() {
         icon="person"
         required
         value={username}
-        onChange={e => setUsername(e.target.value)}
+        onChange={(e) => setUsername(e.target.value)}
       />
 
       <TextInput
@@ -56,7 +55,7 @@ export default function SignupForm() {
         placeholder="Enter email"
         icon="alternate_email"
         value={email}
-        onChange={e => setEmail(e.target.value)}
+        onChange={(e) => setEmail(e.target.value)}
       />
 
       <TextInput
@@ -65,7 +64,7 @@ export default function SignupForm() {
         placeholder="Enter password"
         icon="lock"
         value={password}
-        onChange={e => setPassword(e.target.value)}
+        onChange={(e) => setPassword(e.target.value)}
       />
 
       <TextInput
@@ -74,14 +73,14 @@ export default function SignupForm() {
         placeholder="Confirm password"
         icon="lock_clock"
         value={confirmPassword}
-        onChange={e => setConfirmPassword(e.target.value)}
+        onChange={(e) => setConfirmPassword(e.target.value)}
       />
 
       <Checkbox
         required
         text="I agree to the Terms &amp; Conditions"
         value={agree}
-        onChange={e => setAgree(e.target.value)}
+        onChange={(e) => setAgree(e.target.value)}
       />
 
       <Button disabled={loading} type="submit">
