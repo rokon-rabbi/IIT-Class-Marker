@@ -1,0 +1,1092 @@
+{
+  "videos": {
+    "1": {
+      "youtubeID": "UcOuwwVxZZE",
+      "title": "Software Architecture Definition Process",
+      "noq": 4
+    },
+    "2": {
+      "youtubeID": "ZWl6e7exutM",
+      "title": "Contexts of Software Architectures",
+      "noq": 4
+    },
+    "3": {
+      "youtubeID": "97_wmPesds4",
+      "title": "System & Context Boundaries",
+      "noq": 4
+    },
+    "4": {
+      "youtubeID": "OJniOCgd0hw",
+      "title": "Requirements Elicitation Techniques",
+      "noq": 4
+    },
+    "5": {
+      "youtubeID": "fdJpSt8epbQ",
+      "title": "Access Control in Software Security",
+      "noq": 4
+    },
+    "6": {
+      "youtubeID": "tJaPxeMcGgQ",
+      "title": "Database Security",
+      "noq": 4
+    },
+    "7": {
+      "youtubeID": "-ZecMqrphsk",
+      "title": "Software Architecture Online Class 01 Date 23/10/22",
+      "noq": 4
+    }
+  },
+  "quiz": {
+    "UcOuwwVxZZE": {
+      "questions": [
+        {
+          "title": "Software design defines __________________.",
+          "options": [
+            {
+              "title": "A. Software design is an activity subjected to constraints"
+            },
+            {
+              "title": "B. Software Design satisfies client needs and desires"
+            },
+            {
+              "title": "C. Software Design specifies the nature and composition of software product"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          
+          ]
+        },
+        {
+          "title": "How do architects influence on developing organization?",
+          "options": [
+            {
+              "title": "A. Long term business"
+            },
+            {
+              "title": "B. Immediate business"
+            },
+            {
+              "title": "C. Organization structure"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "ZWl6e7exutM": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "97_wmPesds4": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "OJniOCgd0hw": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "fdJpSt8epbQ": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "tJaPxeMcGgQ": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "-ZecMqrphsk": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model"
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation"
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit"
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles"
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "answers": {
+    "UcOuwwVxZZE": {
+      "questions": [
+        {
+          "title": "Software design defines __________________.",
+          "options": [
+            {
+              "title": "A. Software design is an activity subjected to constraints"
+            },
+            {
+              "title": "B. Software Design satisfies client needs and desires"
+            },
+            {
+              "title": "C. Software Design specifies the nature and composition of software product"
+            },
+            {
+              "title": "D. All of the above",
+              "correct": true
+            }
+          
+          ]
+        },
+        {
+          "title": "How do architects influence on developing organization?",
+          "options": [
+            {
+              "title": "A. Long term business"
+            },
+            {
+              "title": "B. Immediate business"
+            },
+            {
+              "title": "C. Organization structure",
+              "correct": true
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {"title": "Which are the layers introduce in Arch Model?",
+        "options": [
+          {
+            "title": "A. Virtual Application"
+          },
+          {
+            "title": "B. Virtual toolkit"
+          },
+          {
+            "title": "C. All of the above",
+            "correct": true
+          },
+          {
+            "title": "D. None of these"
+
+          }
+        ]
+        },
+        {"title": "Structural design is solved by ___________.",
+        "options": [
+          {
+            "title": "a) The specification model following the data flow diagram"
+          },
+          {
+            "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures",
+            "correct": true
+          },
+          {
+            "title": "c) Procedures represented as bubbles"
+          },
+          {
+            "title": "d) Emphasizing procedural decomposition"
+          }
+        ]
+        }
+      ]
+    },
+    "ZWl6e7exutM": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "97_wmPesds4": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "OJniOCgd0hw": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "fdJpSt8epbQ": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "tJaPxeMcGgQ": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    "-ZecMqrphsk": {
+      "questions": [
+        {
+          "title": "MVC evolves to ______________ model.",
+          "options": [
+            {
+              "title": "A. PAC Model",
+              "correct": true
+            },
+            {
+              "title": "B. Slinky Model"
+            },
+            {
+              "title": "C. Arch Model"
+            },
+            {
+              "title": "D. None of the mentioned"
+            }
+          
+          ]
+        },
+        {
+          "title": "What is false statement about structural design ?",
+          "options": [
+            {
+              "title": "A. The advantage is data flow representation",
+              "correct": true
+            },
+            {
+              "title": "B. It follows Structure chart"
+            },
+            {
+              "title": "C. The structural design introduced notations and heuristics"
+            },
+            {
+              "title": "D. All of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which are the layers introduce in Arch Model?",
+          "options": [
+            {
+              "title": "A. Virtual Application"
+            },
+            {
+              "title": "B. Virtual toolkit",
+              "correct": true
+            },
+            {
+              "title": "C. All of the above"
+            },
+            {
+              "title": "D. None of these"
+            }
+          ]
+        },
+        {
+          "title": "Structural design is solved by ___________.",
+          "options": [
+            {
+              "title": "a) The specification model following the data flow diagram"
+            },
+            {
+              "title": "b) Specification model is a structure chart showing procedure calling hierarchy and flow of data in and out of procedures"
+            },
+            {
+              "title": "c) Procedures represented as bubbles",
+              "correct": true
+            },
+            {
+              "title": "d) Emphasizing procedural decomposition"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
