@@ -38,7 +38,7 @@ export default function LoginForm() {
         icon="alternate_email"
         required
         value={email}
-        onChange={(e) => setEmail(e.target.value)}
+        onChange={e => setEmail(e.target.value)}
       />
 
       <TextInput
@@ -47,7 +47,7 @@ export default function LoginForm() {
         icon="lock"
         required
         value={password}
-        onChange={(e) => setPassword(e.target.value)}
+        onChange={e => setPassword(e.target.value)}
       />
 
       <Button type="submit" disabled={loading}>
